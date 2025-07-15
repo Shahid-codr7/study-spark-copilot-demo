@@ -1,12 +1,10 @@
-# Welcome to your Lovable project
+# Welcome to the Study Spark copilot project
+
+Built an interactive project using Lovable.dev during a Tredence event, showcasing AI’s ability to instantly generate websites, edit and optimize code, and accelerate development workflows in real time.
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/71f6cf46-72b4-466b-8cca-35ad05e746d7
-
-## How can I edit this code?
-
-There are several ways of editing your application.
 
 **Use Lovable**
 
