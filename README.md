@@ -2,9 +2,11 @@
 
 Built an interactive project using Lovable.dev during a Tredence event, showcasing AI’s ability to instantly generate websites, edit and optimize code, and accelerate development workflows in real time.
 
+Study Spark, is an AI-powered study assistant offering personalized learning support. Built on Lovable’s intuitive platform, it features a user-friendly interface, live previews, and seamless functionality for students.
+
 ## Project info
 
-**URL**: https://lovable.dev/projects/71f6cf46-72b4-466b-8cca-35ad05e746d7
+**URL**: [Live preview](https://study-spark-copilot-demo.lovable.app/)
 
 **Use Lovable**
 
